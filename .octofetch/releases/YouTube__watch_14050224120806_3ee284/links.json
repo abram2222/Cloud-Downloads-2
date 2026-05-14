@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-8167",
+  "folder": "YouTube__watch_14050224120806_3ee284",
+  "base_name": "MasterHttpRelayVPN-RUST_WKszf8UJpk4_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/abram2222/Cloud-Downloads-2/releases/tag/co-releases-v1-8167",
+  "files": [
+    {
+      "name": "MasterHttpRelayVPN-RUST_WKszf8UJpk4_720p.mp4",
+      "url": "https://github.com/abram2222/Cloud-Downloads-2/releases/download/co-releases-v1-8167/MasterHttpRelayVPN-RUST_WKszf8UJpk4_720p.mp4",
+      "api_url": "https://api.github.com/repos/abram2222/Cloud-Downloads-2/releases/assets/420169047",
+      "id": 420169047,
+      "size": 140611779,
+      "download_count": 0
+    }
+  ]
+}
