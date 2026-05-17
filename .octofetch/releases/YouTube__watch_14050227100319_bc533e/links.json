@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-3917",
+  "folder": "YouTube__watch_14050227100319_bc533e",
+  "base_name": "Honor_600_Review_I9GXrClwTkY_480p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/abram2222/Cloud-Downloads-2/releases/tag/co-releases-v1-3917",
+  "files": [
+    {
+      "name": "Honor_600_Review_I9GXrClwTkY_480p.mp4",
+      "url": "https://github.com/abram2222/Cloud-Downloads-2/releases/download/co-releases-v1-3917/Honor_600_Review_I9GXrClwTkY_480p.mp4",
+      "api_url": "https://api.github.com/repos/abram2222/Cloud-Downloads-2/releases/assets/422453079",
+      "id": 422453079,
+      "size": 52218403,
+      "download_count": 0
+    }
+  ]
+}
