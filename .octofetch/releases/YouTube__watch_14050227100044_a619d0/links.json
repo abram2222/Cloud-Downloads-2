@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-2157",
+  "folder": "YouTube__watch_14050227100044_a619d0",
+  "base_name": "HONOR_600_In-Depth_Review_Worth_the_buy_QNtdFTShtyk_480p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/abram2222/Cloud-Downloads-2/releases/tag/co-releases-v1-2157",
+  "files": [
+    {
+      "name": "HONOR_600_In-Depth_Review_Worth_the_buy_QNtdFTShtyk_480p.mp4",
+      "url": "https://github.com/abram2222/Cloud-Downloads-2/releases/download/co-releases-v1-2157/HONOR_600_In-Depth_Review_Worth_the_buy_QNtdFTShtyk_480p.mp4",
+      "api_url": "https://api.github.com/repos/abram2222/Cloud-Downloads-2/releases/assets/422451974",
+      "id": 422451974,
+      "size": 162843250,
+      "download_count": 0
+    }
+  ]
+}
